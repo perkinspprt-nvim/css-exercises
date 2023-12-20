@@ -1,0 +1,27 @@
+/* odd class stlying
+* use the . infront of the class name inorder to get the correct class selector */
+
+
+
+
+* {
+ background-color: black;
+     }
+
+.odd {
+  background-color: #cc5667 ;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ #second {
+  color: #3023cc;
+  font-size: 36px;
+} 
+
+#third {
+  font-size: 24px;
+}
+
+#fourth {
+  background-color: #76ef6e;
+}
